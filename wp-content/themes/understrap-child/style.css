@@ -1,0 +1,13 @@
+/* 
+Theme Name: understrap-child
+Template: understrap
+*/
+
+footer#colophon.site-footer>.site-info{
+    display: none !important;;
+}
+.img-cities{
+    height: 300px;
+    object-fit: contain;
+    width: auto;
+}
